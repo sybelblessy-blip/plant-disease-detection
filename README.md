@@ -69,7 +69,7 @@ The goal of this project is to demonstrate how deep learning can support plant d
 
 Predictions are model-generated estimates and may not always be accurate. For important agricultural decisions, confirm results with a qualified agricultural expert.
 
-👨‍💻 Author
+Author
 
 B Sybel Blessy
 
